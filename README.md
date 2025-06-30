@@ -10,7 +10,7 @@
 const sandromndzs = {
   pronouns: "he" | "him",
   code: ["JavaScript", "HTML", "CSS", "Ruby", "Python", "C++", "C"],
-  tools: ["React (learning)", "Node.js(learning)", "Express"(learning), "Angular", "Git"],
+  tools: ["React (learning)", "Node.js(learning)", "Express(learning)", "Angular", "Git"],
   bbdd: ["MongoDB (learning)", "SQL", "SAP HANA"],
   architecture: [
     "learning MERN stack (MongoDB, Express, React, Node.js)",
