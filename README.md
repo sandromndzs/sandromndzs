@@ -7,7 +7,7 @@
 
 
 ```javascript
-const sandrommdzs = {
+const sandromndzs = {
   pronouns: "he" | "him",
   code: ["JavaScript", "HTML", "CSS", "Ruby", "Python", "C++", "C"],
   tools: ["React (learning)", "Node.js", "Express", "MongoDB", "Angular", "Git"],
